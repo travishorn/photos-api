@@ -1,7 +1,7 @@
 {
   "name": "photo-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A very small server that responds to all requests with an array of file paths to a specific directory.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
