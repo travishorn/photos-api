@@ -40,6 +40,61 @@ Visit http://localhost:3000
 
 The server responds with an array of paths to files in the directory.
 
+Example:
+
+```
+[
+  {
+    "id": 0,
+    "filename": "\\images\\phil-hearing-UlET2ddILBE-unsplash.jpg"
+  },
+  {
+    "id": 1,
+    "filename": "\\images\\sammy-joonhee-3f_jRNcta-g-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "filename": "\\images\\sayla-brown-8__gtxl5AEg-unsplash.jpg"
+  },
+  {
+    "id": 3,
+    "filename": "\\images\\the-honest-company-fgn7ZRTmaWQ-unsplash.jpg"
+  },
+  {
+    "id": 4,
+    "filename": "\\images\\subfolder-1\\arun-clarke-DGvVLfpjjN8-unsplash.jpg"
+  },
+  {
+    "id": 5,
+    "filename": "\\images\\subfolder-1\\blake-wisz-GFrBMipOd_E-unsplash.jpg"
+  },
+  {
+    "id": 6,
+    "filename": "\\images\\subfolder-1\\houston-ray-9gO6M03XBPI-unsplash.jpg"
+  },
+  {
+    "id": 7,
+    "filename": "\\images\\subfolder-2\\jack-stapleton-fw-CMjqH8cQ-unsplash.jpg"
+  },
+  {
+    "id": 8,
+    "filename": "\\images\\subfolder-2\\johan-de-jager-6aKFyWHKG00-unsplash.jpg"
+  },
+  {
+    "id": 9,
+    "filename": "\\images\\subfolder-2\\joshua-michaels-FOgxRVxjGSs-unsplash.jpg"
+  },
+  {
+    "id": 10,
+    "filename": "\\images\\subfolder-2\\subfolder-3\\marie-dehayes-epof3ZhDKMc-unsplash.jpg"
+  },
+  {
+    "id": 11,
+    "filename": "\\images\\subfolder-2\\subfolder-3\\paul-volkmer-8_BNTg-s4Hs-unsplash.jpg"
+  }
+]
+```
+
 ## License
 
 The MIT License
